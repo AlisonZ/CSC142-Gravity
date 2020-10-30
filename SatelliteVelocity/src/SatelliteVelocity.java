@@ -1,3 +1,19 @@
+/*
+Program: Satellite Velocity
+
+Author: Alison Zerbe
+
+Course: CSC 142
+
+Description:    A program that instructs a user to input a radius of a satellite
+                and calculates the velocity of that satellite
+
+Verification:   Tested using different radii to ensure that a smaller radius (closer to earth)
+                has a greater velocity.
+                Radius of 1 has a velocity of 1.997162987840502E7
+                Radius of 100 has a velocity of 1997162.9878405018
+ */
+
 import java.util.Scanner;
 
 public class SatelliteVelocity {
